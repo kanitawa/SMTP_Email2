@@ -1,0 +1,2 @@
+# SMTP_Email2
+LabVIEWから.netを利用してSMTPプロトコルでメール送信をおこなうVI

@@ -1,5 +1,5 @@
 # SMTP_Email2
-LabVIEWから.netを利用してSMTPプロトコルでメール送信をおこなうVI
+LabVIEWから.NETを利用してSMTPプロトコルでメール送信をおこなうVI
 
 ## 概要
 [LabVIEW](http://www.ni.com/ja-jp/shop/labview.html)の「開発システム」以上のエディションには、「データ通信」->「プロトコル」->「[SMTP Eメール](http://zone.ni.com/reference/ja-XX/help/371361P-0112/lvcomm/smtp_client/)」VIがあり（以下、これを「組み込みのSMTP EメールVI」と呼ぶ）、LabVIEWからSMTPサーバにEメールを送信することができます。
